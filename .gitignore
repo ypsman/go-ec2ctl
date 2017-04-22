@@ -1,0 +1,9 @@
+# ignore all
+/*
+
+# whitelist
+!.gitignore
+!LICENSE
+!README.md
+!TODO.md
+!*.go
